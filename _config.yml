@@ -55,3 +55,5 @@ social:
 ga:
     id: UA-82493667-1
     host: www.gcssloop.com
+
+theme: jekyll-theme-cayman
